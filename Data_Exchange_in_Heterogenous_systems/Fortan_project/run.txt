@@ -1,0 +1,5 @@
+rm a.out sin_theta_values.csv
+ 
+ gfortran sinX_fortran_version2.f90
+
+  ./a.out
